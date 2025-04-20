@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me : asf1k.til@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: this is just the beginning
+- ⚡ Fun fact: you're better than this
 
 <!---
 safwansatil/safwansatil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
