@@ -12,16 +12,16 @@ I'm a Software Engineering undergraduate (2nd Year, IUT). Feel free to reach out
 
 <div align="center">
   <a href="https://discord.com/users/1216797609646362804" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
   <a href="https://www.youtube.com/channel/UC7KrG05VIepuCYMJlT2A2Ag" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
 </div>
 
-###
-<div align="center">
+<br />
 
+<div align="center">
   <!-- Core Activity & Streaks -->
   <a href="https://github.com/safwansatil">
     <img src="https://github-readme-stats.vercel.app/api?username=safwansatil&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="155" alt="GitHub Stats" />
@@ -29,32 +29,35 @@ I'm a Software Engineering undergraduate (2nd Year, IUT). Feel free to reach out
   <a href="https://github.com/safwansatil">
     <img src="https://streak-stats.demolab.com?user=safwansatil&theme=dracula&hide_border=true" height="155" alt="GitHub Streak" />
   </a>
+</div>
 
-  <br /><br />
+<br />
 
+<div align="center">
   <!-- Profile Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safwansatil&theme=dracula" width="795" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=safwansatil&theme=dracula" height="155" alt="Languages per Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=safwansatil&theme=dracula" height="155" alt="Most Committed Languages" />
+</div>
 
-  <br />
+<br />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=safwansatil&theme=dracula" width="395" alt="Languages per Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=safwansatil&theme=dracula" width="395" alt="Most Committed Languages" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=safwansatil&theme=dracula" height="155" alt="Card Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safwansatil&theme=dracula&utcOffset=6" height="155" alt="Productive Time" />
+</div>
 
-  <br />
+<br />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=safwansatil&theme=dracula" width="395" alt="Card Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safwansatil&theme=dracula&utcOffset=6" width="395" alt="Productive Time" />
-
-  <br /><br />
-
+<div align="center">
   <!-- Pacman Contribution Graph -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/safwansatil/safwansatil/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/safwansatil/safwansatil/output/pacman-contribution-graph.svg">
     <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/safwansatil/safwansatil/output/pacman-contribution-graph-dark.svg" width="800">
   </picture>
-
 </div>
+
+<br />
 
 ###
 # 💻 YouTube Videos
