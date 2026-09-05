@@ -24,7 +24,7 @@ I'm a Software Engineering undergraduate (2nd Year, IUT). Feel free to reach out
 <div align="center">
   <!-- Core Activity & Streaks -->
   <a href="https://github.com/safwansatil">
-    <img src="https://github-readme-stats.vercel.app/api?username=safwansatil&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="155" alt="GitHub Stats" />
+    <img src="https://safwansatil-readme-stats.vercel.app/api?username=safwansatil&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="155" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/safwansatil">
     <img src="https://streak-stats.demolab.com?user=safwansatil&theme=dracula&hide_border=true" height="155" alt="GitHub Streak" />
